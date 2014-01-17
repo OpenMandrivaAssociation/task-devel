@@ -1,5 +1,5 @@
 Name: task-devel
-Version: 2014.0
+Version: %distro_release
 Release: 1
 Summary: Meta-package installing tools required for development
 URL: http://openmandriva.org/
