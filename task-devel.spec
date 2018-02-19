@@ -13,7 +13,6 @@ Requires: clang
 Requires: %mklibname -d stdc++
 Requires: glibc-devel
 Requires: rpm-build
-Requires: git-core
 # (tpg) we use bsdtar from libarchive as a replacement for tar
 # originall tar was renamed to gnutar
 # bsdtar froom libarchive provides tar, and bsdtar
