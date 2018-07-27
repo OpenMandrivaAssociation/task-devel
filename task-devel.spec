@@ -25,7 +25,6 @@ Requires: cpio
 # Not strictly required, but used by a load of build scripts
 # and rpmlint...
 Requires: python >= 3.0
-Requires: python2
 
 %description
 Meta-package installing tools required for development.
