@@ -2,7 +2,7 @@ Name: task-devel
 Version: 2015.0
 Release: 0.9
 Summary: Meta-package installing tools required for development
-URL: http://openmandriva.org/
+URL: https://openmandriva.org/
 License: GPLv3+
 Group: Development/Other
 Requires: make
